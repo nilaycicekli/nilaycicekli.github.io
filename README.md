@@ -1,1 +1,1 @@
-# My portfolio website. Go [check it out](https://nilaycicekli.github.io/)!
+# My personal website. You can [check it out](www.nilaycicekli.com)!
