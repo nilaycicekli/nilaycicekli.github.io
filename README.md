@@ -1,1 +1,1 @@
-# My personal website. You can [check it out](https://www.nilaycicekli.com)!
+# My personal website. You can [check it out](http://www.nilaycicekli.com)!
